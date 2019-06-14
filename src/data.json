@@ -3,7 +3,7 @@
     {
       "id": "Annette",
       "label": "<b>Annette</b>",
-      "image": "https://bootdey.com/img/Content/avatar/avatar1.png",
+      "image": "images/avatar1.png",
       "group": "trader",
       "x": 250,
       "y": 250
@@ -11,7 +11,7 @@
     {
       "id": "Robert",
       "label": "<b>Robert</b>",
-      "image": "https://bootdey.com/img/Content/avatar/avatar2.png",
+      "image": "images/avatar2.png",
       "group": "ex-interbank",
       "x": 410,
       "y": 50
@@ -19,7 +19,7 @@
     {
       "id": "Anna",
       "label": "<b>Anna</b>",
-      "image": "https://bootdey.com/img/Content/avatar/avatar3.png",
+      "image": "images/avatar3.png",
       "group": "within-cimb",
       "x": 430,
       "y": 200
@@ -27,7 +27,7 @@
     {
       "id": "James",
       "label": "<b>James</b>",
-      "image": "https://bootdey.com/img/Content/avatar/avatar4.png",
+      "image": "images/avatar4.png",
       "group": "sale",
       "x": 450,
       "y": 350
@@ -35,7 +35,7 @@
     {
       "id": "Mary",
       "label": "<b>Mary</b>",
-      "image": "https://bootdey.com/img/Content/avatar/avatar5.png",
+      "image": "images/avatar5.png",
       "group": "ex-interbank",
       "font": {"vadjust": 0},
       "x": 150,
@@ -44,7 +44,7 @@
     {
       "id": "Lisa",
       "label": "<b>Lisa</b>",
-      "image": "https://bootdey.com/img/Content/avatar/avatar8.png",
+      "image": "images/avatar8.png",
       "group": "ex-broker",
       "x": 50,
       "y": 200
@@ -52,7 +52,7 @@
     {
       "id": "John",
       "label": "<b>John</b>",
-      "image": "https://bootdey.com/img/Content/avatar/avatar7.png",
+      "image": "images/avatar7.png",
       "group": "within-cimb",
       "x": 170,
       "y": 70
