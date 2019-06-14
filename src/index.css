@@ -1,0 +1,41 @@
+.vis-react {
+  width: 65rem;
+  height: 40rem;
+  border: none;
+  padding: 2rem;
+  display: block;
+  margin: 0 auto;
+}
+.vis-react-title {
+  display: inline-block;
+  width: auto;
+  text-align: left;
+  float: none;
+  overflow: hidden;
+}
+.vis-react-toolbar {
+  display: inline-block;
+  width: 45%;
+  text-align: right;
+  float: right;
+  margin-top: 1.2rem;
+}
+.group-circle {
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: 0.9rem;
+  display: table-cell;
+}
+.group-rectangle {
+  width: 0.8rem;
+  height: 0.8rem;
+  display: table-cell;
+}
+.group-pentagon {
+  width: 1.3rem;
+  height: 1.3rem;
+  display: table-cell;
+  background-image: url('./images/group-unknown.png');
+  background-size: 1.3rem 1.3rem;
+  background-repeat: no-repeat;
+}
