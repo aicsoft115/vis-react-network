@@ -12,10 +12,12 @@ const styles = {
   report: {
     display: 'inline-block',
     float: 'right',
-    width: '350px',
+    width: '220px',
     verticalAlign: 'top',
     backgroundColor: '#efefef',
-    marginTop: '1rem'
+    marginTop: '1rem',
+    marginRight: '1.5rem',
+    fontSize: 12
   }
 }
 
@@ -26,7 +28,7 @@ export default class App extends Component {
         <Test style={styles.network} />
 
         <div style={styles.report}>
-          <ul style={{listStyle: 'none'}}>
+          <ul style={{listStyle: 'none', paddingLeft: '15px'}}>
             <li style={{marginBottom: '0.5rem'}}>
               <div style={{display: 'table'}}>
                 <div className="group-circle" style={{border: '0.3rem solid #d35400'}}></div>

@@ -11,6 +11,9 @@ const options = {
   autoResize: true,
   width: '500',
   height: '500',
+  interaction: {
+    zoomView: false
+  },
   nodes: {
     shape: 'circularImage',
     fixed: true,
@@ -24,7 +27,7 @@ const options = {
     borderWidth: 6
   },
   edges: {
-    width: 5,
+    width: 4,
     arrows: {
       to:     {enabled: true, scaleFactor:0.1, type:'arrow'},
       from:   {enabled: false, scaleFactor:0.1, type:'arrow'}

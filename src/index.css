@@ -21,21 +21,21 @@
   margin-top: 1.2rem;
 }
 .group-circle {
-  width: 0.9rem;
-  height: 0.9rem;
-  border-radius: 0.9rem;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 0.5rem;
   display: table-cell;
 }
 .group-rectangle {
-  width: 0.8rem;
-  height: 0.8rem;
+  width: 0.4rem;
+  height: 0.4rem;
   display: table-cell;
 }
 .group-pentagon {
-  width: 1.3rem;
-  height: 1.3rem;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-size: 0.9rem 0.9rem;
+  background-repeat: no-repeat;
   display: table-cell;
   background-image: url('./images/group-unknown.png');
-  background-size: 1.3rem 1.3rem;
-  background-repeat: no-repeat;
 }
